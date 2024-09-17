@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(86, 164, 232);
+    color: black;
+    font-family: "Spicy Rice", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #309fdb;
+    color: darkblue;
+    font-family: "Spicy Rice", serif;
+}
